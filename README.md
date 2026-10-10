@@ -12,7 +12,7 @@ Ask questions about your PDFs and get **fast, page-cited, hallucination-resistan
 [![LangChain](https://img.shields.io/badge/LangChain-0.2%2F0.3-1C3C3C.svg?logo=langchain&logoColor=white)](https://www.langchain.com/)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-orange.svg)](https://www.trychroma.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Download](https://img.shields.io/badge/Download-Google_Drive-4285F4.svg?logo=googledrive&logoColor=white)](https://drive.google.com/YOUR_GOOGLE_DRIVE_LINK)
+[![Download](https://img.shields.io/badge/Download-Google_Drive-4285F4.svg?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1ys30lp73CqJ2NCrlP6Om0rGQJ_VkMsrW?usp=sharing)
 
 [Download](#-download) · [Features](#-key-features) · [Architecture](#-architecture) · [Quickstart](#-quickstart) · [Configuration](#-configuration) · [Project Structure](#-project-structure) · [Troubleshooting](#-troubleshooting--gotchas) · [Contributing](#-contributing)
 
